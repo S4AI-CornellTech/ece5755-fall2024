@@ -1,0 +1,16 @@
+theme: jekyll-theme-cayman
+tite: Sustainable Computing
+hide_first_title: false
+darkmode: false
+hide_first_title: false # Useful if README.md is used on both github and pages
+logo_url: ./logo.png # Either absolute or relative url
+syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
+colors:
+  gradient_left: "#991527"
+  gradient_right: "#991524"
+  header: "#fff"
+  android_theme: "#000" # this default to gradient_color
+  link: "#1e6bb8" # this default to gradient_color
+  section_title: "#155799" # this default to gradient_color
+
+

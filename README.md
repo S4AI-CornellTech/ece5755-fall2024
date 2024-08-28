@@ -20,7 +20,7 @@ designed.
 - Time: Mondays and Wednesdays at 10:10am - 11:25am
 - Please read the [syllabus](https://docs.google.com/document/d/1KOVxBbWcwsVbuoAC8NWIuc9fU-NF-6CvPUplaWrgDVk/edit)
 - [Canvas link](https://canvas.cornell.edu/courses/67788)
-- [Piazza link](https://piazza.com/cornell/fall2024/ece5755)
+- [Ed Discussions](https://edstem.org/us/join/uHMmF9)
 
 ## Course Staff
 

@@ -33,12 +33,12 @@ designed.
 ## Office Hours
 
 - Professor: Wednesday, 12pm - 1pm, Bloomberg 268
-- TA: To be announced
-
+- TA (Collin Zhang): Tuesday, 11am - 12pm
+- TA (Zhanqiu Hu): Thursday, 10am - 11am
 
 ## Schedule
 
-| Date   | Day | Topic                                        | Due | Link |
-| ------ | --- | -------------------------------------        |
-| Aug 26 | Mon | [Introduction to Architecture and Systems]() |     |      |
-| Aug 28 | Wed | [Instruction Set Architecture]()             |     |      |
+| Date   | Day | Topic                                                                                                                                                                                  | Due |
+| ------ | --- | -------------------------------------                                                                                                                                                  |
+| Aug 26 | Mon | [Introduction to Architecture and Systems](https://docs.google.com/presentation/d/1C7ipAEQI2Jd8PVvROCqXL_wisniyxAa9/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true) |     |
+| Aug 28 | Wed | [Instruction Set Architecture](https://docs.google.com/presentation/d/1W8znJ-litE9ozRRCUYS4QVWf6OcQ0qu2/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)             |     |

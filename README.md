@@ -25,9 +25,9 @@ designed.
 ## Course Staff
 
 
-| <img src="https://ugupta.com/assets/images/uditgupta.jpeg" height="250"> | <img src="assets/images/collin.jpeg" height="250"> | <img src="assets/images/ZhanqiuHu.jpeg" height="250"> |
-| :-------------:                                                          | :-------------:                                    | :-------------:                                       |
-| Udit Gupta (Professor)                                                   | Collin Zhang (Head TA)                             | Zhanqiu Hu (Grader/TA)                                |
+| <img src="https://ugupta.com/assets/images/uditgupta.jpeg" height="250"> | <img src="assets/images/collin.jpeg" height="250"> | <img src="assets/images/ZhanqiuHu.jpeg" height="250"> | <img src="assets/images/ZhilinHe.jpeg" height="250"> |
+| :-------------:                                                          | :-------------:                                    | :-------------:                                       | :------------: |
+| Udit Gupta (Professor)                                                   | Collin Zhang (Head TA)                             | Zhanqiu Hu (Grader/TA)                                | Zhilin He (Grader) |
 
 
 ## Office Hours

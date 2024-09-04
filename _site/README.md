@@ -38,8 +38,10 @@ designed.
 
 ## Schedule
 
-| Date   | Day | Topic                                                                                                                                                                                  | Due |
+| Date   | Day | Topic                                                                                                                                                                                  | Due               |
 | ------ | --- | -------------------------------------                                                                                                                                                  |
-| Aug 26 | Mon | [Introduction to Architecture and Systems](https://docs.google.com/presentation/d/1C7ipAEQI2Jd8PVvROCqXL_wisniyxAa9/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true) |     |
-| Aug 28 | Wed | [Instruction Set Architecture](https://docs.google.com/presentation/d/1W8znJ-litE9ozRRCUYS4QVWf6OcQ0qu2/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)             |     |
-| Sep 4  | Wed | [Processors](https://docs.google.com/presentation/d/1nCmCjAGrhryLLPhwOlQpPuhjMAoNMRRz/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)             |     |
+| Aug 26 | Mon | [Introduction to Architecture and Systems](https://docs.google.com/presentation/d/1C7ipAEQI2Jd8PVvROCqXL_wisniyxAa9/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true) |                   |
+| Aug 28 | Wed | [Instruction Set Architecture](https://docs.google.com/presentation/d/1W8znJ-litE9ozRRCUYS4QVWf6OcQ0qu2/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)             |                   |
+| Sep 2  | Mon | Labor day (No class)                                                                                                                                                                   |                   |
+| Sep 4  | Wed | [Processors](https://docs.google.com/presentation/d/1nCmCjAGrhryLLPhwOlQpPuhjMAoNMRRz/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                               |                   |
+| Sep 9  | Mon | [Pipelined Processors]()                                                                                                                                                               | Quiz I (in class) |

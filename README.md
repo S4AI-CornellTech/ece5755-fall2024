@@ -45,3 +45,4 @@ designed.
 | Sep 2  | Mon | Labor day (No class)                                                                                                                                                                   |                   |
 | Sep 4  | Wed | [Processors](https://docs.google.com/presentation/d/1nCmCjAGrhryLLPhwOlQpPuhjMAoNMRRz/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                               |                   |
 | Sep 9  | Mon | [Pipelined Processors](https://docs.google.com/presentation/d/1al7hMZz0tXEaQDfXR1FECcxqzErQbNeT/edit#slide=id.p58)                                                                     | Quiz I (in class) |
+| Sep 11 | Mon | [Pipelined Processors 2](https://docs.google.com/presentation/d/1KD1dj9dybmVeH_4elcvg4nHF5mrnbr25/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |                   |

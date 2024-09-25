@@ -48,3 +48,5 @@ designed.
 | Sep 11 | Wed | [Pipelined Processors 2](https://docs.google.com/presentation/d/1KD1dj9dybmVeH_4elcvg4nHF5mrnbr25/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |                   |
 | Sep 16 | Mon | [Speculation](https://docs.google.com/presentation/d/1Jtd-ohnEG4CAPApaHmHSPUEyMkGJ7iPi/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |                   |
 | Sep 18 | Mon | [Out of order execution](https://docs.google.com/presentation/d/1yCgWcP-ZUsDigPlKIQJgviYPy4ZlL5Qp/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |                   |
+| Sep 23 | Mon | [Out of order execution & Memory Hierarchy](https://docs.google.com/presentation/d/1s07BapSqa3waeBbzPWq3NvF4NXqcbyHw/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |                   |
+| Sep 25 | Mon | [Caching I](https://docs.google.com/presentation/d/1RrKjOp3M6KafUdwQyb0ayD8Ho1i9IKn1/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |                   |

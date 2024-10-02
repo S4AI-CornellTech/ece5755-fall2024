@@ -51,3 +51,4 @@ designed.
 | Sep 23 | Mon | [Out of order execution & Memory Hierarchy](https://docs.google.com/presentation/d/1s07BapSqa3waeBbzPWq3NvF4NXqcbyHw/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   | Quiz II (in class)                  |
 | Sep 25 | Mon | [Caching I](https://docs.google.com/presentation/d/1RrKjOp3M6KafUdwQyb0ayD8Ho1i9IKn1/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |   Lab 0 due |
 | Sep 30 | Mon | [ML](https://docs.google.com/presentation/d/1Q9HGtqsPc31yu6OLhyoGsa98piqoaGb7/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |    |
+| Oct 2 | Wed | [Caching II](https://docs.google.com/presentation/d/1d1WE-nslGraedFn3HXo0F37AW6fbU193/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                   |    |

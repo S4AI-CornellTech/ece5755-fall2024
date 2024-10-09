@@ -53,3 +53,4 @@ designed.
 | Sep 30 | Mon | [ML](https://docs.google.com/presentation/d/1Q9HGtqsPc31yu6OLhyoGsa98piqoaGb7/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                                        |                    |
 | Oct 2  | Wed | [Caching II](https://docs.google.com/presentation/d/1d1WE-nslGraedFn3HXo0F37AW6fbU193/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                                |                    |
 | Oct 7  | Wed | [Caching & VM](https://docs.google.com/presentation/d/1v1Q0XA57e0iwf81ti0r7_tMDx4Y5K5Cz/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                              |                    |
+| Oct 9  | Wed | [VM](https://docs.google.com/presentation/d/1ezUljYiQOBxM-VABAjbpqcaFskQeVQh8/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                              |                    |

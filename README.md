@@ -57,4 +57,5 @@ designed.
 | Oct 16 | Wed | [DRAM](https://docs.google.com/presentation/d/19EMfCucakbwRrpBrMDs8d7pPUeHaQUnn/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)                                      |                    |
 | Oct 21 | Mon | [Multi-core & Cache Coherence](https://docs.google.com/presentation/d/1QyL0vPbJHLrjOhZqoycpmQu7FzKDKxtZ/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)              |                    |
 | Oct 23 | Mon | [Cache Coherence](https://docs.google.com/presentation/d/17vv7k5zpBUzVt1cxX7YIyE__UfgwNIiL/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)              |                    |
-| Oct 28 | Mon | [Cache Consistency](https://docs.google.com/presentation/d/1RkCTm_n4-0evBudt0jDAl3pyWBO9pygT/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)              |                    |
+| Oct 28 | Mon | [Memory Consistency](https://docs.google.com/presentation/d/1RkCTm_n4-0evBudt0jDAl3pyWBO9pygT/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)              |                    |
+| Oct 30 | Mon | [Memory Consistency](https://docs.google.com/presentation/d/14gcD_hg64XyAoE88t_4r4CY-0wWkBk55/edit?usp=drive_link&ouid=103169723489519509705&rtpof=true&sd=true)              |                    |
